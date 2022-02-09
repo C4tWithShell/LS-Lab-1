@@ -1,2 +1,2 @@
-# LS-Lab-1
-Hypervisors &amp; Virtualization
+# LS-Lab-1 - Hypervisors &amp; Virtualization
+The whole point of true Type I Hypervisors is to put a bunch of them together in view to build-up a cluster farm. This, in turns, permits to enable virtualization-level High-Availability and automatic guest hot-migrations shuffling, to optimize the load across the farm. In fact, optimizing host’s CPU load also increases guest’s performance, as the hypervisor schedules guest’s jobs.
